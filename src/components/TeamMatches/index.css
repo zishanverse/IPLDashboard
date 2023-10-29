@@ -1,0 +1,29 @@
+.teamDetailsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  background-image: linear-gradient(to bottom, red, darkblue);
+  width: 100%;
+  min-height: 100vh;
+}
+.teamMatchesCard {
+  display: flex;
+  flex-direction: column;
+}
+.banner {
+  width: 100%;
+}
+.latest {
+  font-family: 'Bree Serif';
+  color: #ffffff;
+}
+.listOfRecent {
+  padding: 0px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  width: 100%;
+}

@@ -1,0 +1,26 @@
+.recentLogo {
+  height: 100px;
+}
+.recentCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 31%;
+  background-color: #1e293b;
+  padding: 25px;
+  border-radius: 20px;
+  margin-bottom: 25px;
+  color: #fff;
+  font-family: 'Bree Serif';
+  text-align: center;
+}
+.recentTeamName {
+  font-size: 23px;
+}
+.Won {
+  color: green;
+}
+.Lost {
+  color: red;
+}

@@ -1,0 +1,43 @@
+.latestMatchesCard {
+  background-color: #1e293b;
+  padding: 25px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.latestCardContent {
+  width: 33%;
+}
+.latestTeamLogo {
+  width: 160px;
+}
+.leftContent {
+  text-align: right;
+}
+.competingTeam {
+  color: #fff;
+  font-family: 'Bree Serif';
+  font-weight: 200;
+}
+.date {
+  color: #fff;
+  font-family: 'Bree Serif';
+  font-size: 30px;
+}
+
+.key {
+  color: #fff;
+  font-family: 'Bree Serif';
+  font-size: 17px;
+  font-weight: 500;
+}
+.value {
+  color: #fff;
+  font-family: 'Bree Serif';
+  font-size: 13px;
+}
+.key-value {
+  margin-bottom: 30px;
+}
