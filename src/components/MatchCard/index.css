@@ -24,3 +24,12 @@
 .Lost {
   color: red;
 }
+
+@media (max-width: 575px) {
+  .recentCard  {
+    width: 45%;
+  }
+  .recentLogo {
+    height: 60px;
+  }
+}
